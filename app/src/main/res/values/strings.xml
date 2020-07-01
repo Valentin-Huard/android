@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Formation</string>
+    <string name="btn_40dp">40dp</string>
+    <string name="btn_80dp">80dp</string>
+    <string name="btn_160dp">160dp</string>
+    <string name="btn_tp1">TP1</string>
+    <string name="btn_tp2">TP2</string>
+    <string name="btn_tp3">TP3</string>
+    <string name="btn_tp4">TP4</string>
+    <string name="btn_tp6">TP6</string>
+    <string name="favorites">Favorit</string>
+    <string name="home">home</string>
+    <string name="settings">settings</string>
+    <string name="appbar_scrolling_view_behavior">Fragement</string>
+    <string name="title_activity_tp4_menu">TP4_menu</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+</resources>

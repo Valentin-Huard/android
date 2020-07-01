@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="tp.lpdip.myapplication">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".MainActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".TP1" />
+        <activity android:name=".TP2" />
+        <activity android:name=".TP3" />
+        <activity android:name=".TP3_activiteRetour" />
+        <activity android:name=".TP4" />
+        <activity
+            android:name=".TP4_menu"
+            android:label="@string/title_activity_tp4_menu" />
+        <activity android:name=".TP6" />
+        <activity android:name=".TodoNoteActivity" />
+        <activity android:name=".TP8" />
+        <activity android:name=".TP7"></activity>
+    </application>
+
+</manifest>
